@@ -1,1 +1,11 @@
 .DS_Store
+DropSeq/HCC1806_Filtered_Normalised_3000_Data_train.txt
+DropSeq/MCF7_Filtered_Normalised_3000_Data_train.txt
+SmartSeq/HCC1806_SmartS_Filtered_Data.txt
+SmartSeq/HCC1806_SmartS_Filtered_Normalised_3000_Data_train.txt
+SmartSeq/HCC1806_SmartS_MetaData.tsv
+SmartSeq/HCC1806_SmartS_Unfiltered_Data.txt
+SmartSeq/MCF7_SmartS_Filtered_Data.txt
+SmartSeq/MCF7_SmartS_Filtered_Normalised_3000_Data_train.txt
+SmartSeq/MCF7_SmartS_MetaData.tsv
+SmartSeq/MCF7_SmartS_Unfiltered_Data.txt
