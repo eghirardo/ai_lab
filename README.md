@@ -8,7 +8,7 @@ This repository hosts all the necessary files and documentation pertaining to th
 
 ## Repository Structure
 
--The repository is organized as follows:
+The repository is organized as follows:
 1. HCC1806_datapreprocessing.ipynb: this notebook contains the data preprocessing steps for the HCC1806 cell line.
    This notebook contains a detailed explanation of EDA (Exploratory Data Analysis), data preprocessing and dimensionality reduction.
 2. MCF7_datapreprocessing.ipynb: this notebook contains the data preprocessing steps for the MCF7 cell line. This second one aims instead at replicating the same steps for the MCF7 cell line, as they were performed for the HCC1806 cell line. As it reproduces the same steps, we will not provide a detailed explanation but just the necessary comments.
